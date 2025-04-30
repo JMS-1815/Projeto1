@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">DevLinks </h1>
 
 <p align="center">
 programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,8 @@ programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" 
+  src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -42,5 +43,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-Feito com ♥ Rocketseat 
- :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
