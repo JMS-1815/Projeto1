@@ -8,7 +8,7 @@ programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ o DevLinks e um agregador de links para usar como cartao de visitas online.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mf894tdzm99fg9ssu4kymq/DevLinks-(copy)?node-id=1%3a113&t=8x94o7ectaqmc2cs-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📑 Licença
 
 Esse projeto está sob a licença MIT.
 
