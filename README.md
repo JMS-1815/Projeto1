@@ -1,4 +1,4 @@
-<h1 align="center">DevLinks </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -36,7 +36,7 @@ o DevLinks e um agregador de links para usar como cartao de visitas online.
 
 ## 📎 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mf894tdzm99fg9ssu4kymq/DevLinks-(copy)?node-id=1%3a113&t=8x94o7ectaqmc2cs-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📑 Licença
 
